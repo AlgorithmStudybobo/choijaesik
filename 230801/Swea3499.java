@@ -1,4 +1,4 @@
-package com.swea;
+
 
 import java.util.Arrays;
 import java.util.Scanner;

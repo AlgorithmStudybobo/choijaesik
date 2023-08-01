@@ -1,4 +1,3 @@
-package com.swea;
 
 import java.util.ArrayList;
 import java.util.HashSet;

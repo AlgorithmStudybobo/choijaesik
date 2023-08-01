@@ -1,4 +1,3 @@
-package com.swea;
 
 import java.util.Scanner;
 
